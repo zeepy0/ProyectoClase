@@ -1,2 +1,2 @@
 echo Listado completo
-ls -l
+dir -l
